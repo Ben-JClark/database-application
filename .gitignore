@@ -1,0 +1,6 @@
+# Exclude bin and obj folders
+bin/
+obj/
+
+# Exclude files with sensitive information
+App.config
